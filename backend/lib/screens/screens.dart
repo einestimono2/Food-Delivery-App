@@ -1,0 +1,9 @@
+export 'dashboard/dashboard_screen.dart';
+export './restaurant/restaurant_screen.dart';
+export 'menu/menu_screen.dart';
+export './add_restaurant/add_restaurant_screen.dart';
+export './category/category_screen.dart';
+export './settings/settings_screen.dart';
+export './discount/discount_screen.dart';
+export './voucher/voucher_screen.dart';
+export './user/user_screen.dart';
